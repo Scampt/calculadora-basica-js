@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: blue;
+}
+
+main {
+    background: rosybrown;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.contenedor {
+    text-align: center;
+}
+
+main input {
+    width: 100%;
+    padding: 15px;
+    border: none;
+}
+
+main p {
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+}
+
+main .resultado {
+    color: #fff;
+    font-size: 15px;
+    margin-top: 20px;
+    background: orange;
+}
